@@ -10,6 +10,8 @@ In order to update:<br>
 sudo apt-get install gcc-9<br>
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-9 90 --slave /usr/bin/g++ g++ /usr/bin/g++-9 --slave /usr/bin/gcov gcov /usr/bin/gcov-9<br>
 <br>
+In order to check the alternatives present: sudo update-alternatives --config gcc<br><br>
+<br>
 For Practical 6 commands:<br>
 gcc pthread -o server thread_server.c <br>
 gcc pthread -o server thread_client.c <br>
