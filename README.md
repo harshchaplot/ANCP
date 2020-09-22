@@ -22,3 +22,15 @@ Run multiple instances of client in different terminals/command prompts!!<br>
 After compiling:<br>
 ./client<br>
 ./server<br>
+<br><br>
+<h1>For practical 7 files are sender.c and listener.c</h1><br>
+For running the files <br>
+Run the listener in multiple command prompts or terminals ( Multicast IP used is 239.255.255.250 and port number is 9000 which u can have ur own but keep in mind that IP should be in the multicast IP range ) <br>
+<ul>
+	<li>gcc listener.c -o listener</li>
+	<li>./listener 239.255.255.250 9000</li>
+</ul>
+<ul>
+	<li>gcc sender.c -o sender</li>
+	<li>./sender 239.255.255.250 9000</li>
+</ul>
