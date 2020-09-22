@@ -1,7 +1,5 @@
-# ANCP_pracs
+# ANCP Practicals
 
-
-ANCP practicals
 
 <h1>For Practical 6 commands:</h1>
 <b>One imp thing for Practical 6: make sure your gcc version is above 9<br></b>
