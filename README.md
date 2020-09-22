@@ -15,8 +15,6 @@ In order to check the alternatives present: sudo update-alternatives --config gc
 	<li>gcc pthread -o server thread_server.c </li>
 	<li>gcc pthread -o server thread_client.c </li>
 </ul><br>
-<br>
-<br>
 Run multiple instances of client in different terminals/command prompts!!<br>
 <br>
 After compiling:
