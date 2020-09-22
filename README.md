@@ -12,7 +12,7 @@ sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-9 90 --slave /u
 <br>
 In order to check the alternatives present: sudo update-alternatives --config gcc<br><br>
 <br>
-For Practical 6 commands:<br>
+<h1>For Practical 6 commands:</h1><br>
 gcc pthread -o server thread_server.c <br>
 gcc pthread -o server thread_client.c <br>
 <br>
