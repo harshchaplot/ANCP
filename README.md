@@ -33,4 +33,4 @@ Run the listener in multiple command prompts or terminals ( Multicast IP used is
 </ul>
 
 
-<h3>For installing follow instructions at https://anrg.usc.edu/contiki/index.php/Installation</h3>
+<h3>For installing Contiki OS follow instructions at https://anrg.usc.edu/contiki/index.php/Installation</h3>
