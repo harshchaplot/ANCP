@@ -31,3 +31,6 @@ Run the listener in multiple command prompts or terminals ( Multicast IP used is
 	<li>gcc sender.c -o sender</li>
 	<li>./sender 239.255.255.250 9000</li>
 </ul>
+
+
+<h3>For installing follow instructions at https://anrg.usc.edu/contiki/index.php/Installation</h3>
