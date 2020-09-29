@@ -33,4 +33,17 @@ Run the listener in multiple command prompts or terminals ( Multicast IP used is
 </ul>
 
 <hr>
-<h3>For installing Contiki OS follow instructions at https://anrg.usc.edu/contiki/index.php/Installation</h3>
+<h3>For installing Contiki OS :</h3>
+<h4>Make sure your JDK version is 8</h4>
+<ul>
+	<li>git clone https://github.com/contiki-os/contiki</li>
+	<li>cd contiki</li>
+	<li>git submodule update --init</li>
+	<li>Here the installation is over, now we run the cooja simulator. For that:
+		<ul>
+			<li>cd tools/cooja</li>
+			<li>ant run</li>
+		</ul>
+	</li>
+</ul>
+<h5>For running some examples in cooja simulator, follow @ https://anrg.usc.edu/contiki/index.php/Contiki_tutorials</h5>
