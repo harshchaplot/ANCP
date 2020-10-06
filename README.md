@@ -47,5 +47,5 @@ Run the listener in multiple command prompts or terminals ( Multicast IP used is
 	</li>
 </ul>
 <h5>For running some examples in cooja simulator, follow @ https://anrg.usc.edu/contiki/index.php/Contiki_tutorials</h5>
-<h5>For documentation http://contiki.sourceforge.net/docs/2.6</h5><br><br>
+<h5>For documentation http://contiki.sourceforge.net/docs/2.6</h5><br>
 <h5>For practical 8 just place the folders in the folder of Practical 8 of repo inside the examples folder of contiki and then just simulate it</h5><hr>
